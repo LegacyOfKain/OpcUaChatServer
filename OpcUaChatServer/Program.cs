@@ -34,9 +34,9 @@ using System;
 using System.Linq;
 
 namespace OpcUaChatServer;
-class Program
+public class Program
 {
-    static int Main(string[] args)
+    public static int Main(string[] args)
     {
         MefManager.Initialize();
         MefManager.Container.GetExportedValue<Logger>().Logged += (x) => Console.WriteLine(x);
