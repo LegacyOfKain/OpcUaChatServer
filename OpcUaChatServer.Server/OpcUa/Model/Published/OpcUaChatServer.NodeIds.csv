@@ -1,0 +1,10 @@
+ChatLog,19,DataType
+ChatLog_Encoding_DefaultBinary,24,Object
+ChatLog_Encoding_DefaultJson,40,Object
+ChatLog_Encoding_DefaultXml,32,Object
+ChatLogEventType,7,ObjectType
+ChatLogs,20,Object
+ChatLogsType,1,ObjectType
+ChatLogType,18,VariableType
+OpcUaChatServer_BinarySchema,25,Variable
+OpcUaChatServer_XmlSchema,33,Variable
